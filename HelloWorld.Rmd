@@ -1,8 +1,10 @@
 ---
 title: "HelloWorld"
-author: "YOU!"
+author: "jchang97"
 date: "01/02/2021"
-output: pdf_document
+output: 
+  html_document:
+  keep_md: true
 ---
 ## This is a markdown file
 
